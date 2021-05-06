@@ -8,6 +8,8 @@
 * No Worse Enemy: The Inside Story of the Chaotic Struggle for Afghanistan - Ben Anderson
 * The Operators The Wild and Terrifying Inside Story of America's War in Afghanistan - Michael Hastings
 >Excellent and critical insight into the poitical machinations behind the American war effort in Afghanistan. No longer available to buy. Modern day burning of the books
+* Calculus made easy - Silvanus P Thompson
+> Written in 1910 this book takes ordinary problems and demonstrates how difficult solving them with conventional maths is. By intorducing the concepts of calculus once existing methods have been tried it allows the reader to truly understand the intent behind the method and how it might apply to real problems
 * The Prince - Niccolò Machiavelli
 * The Art of War - Sun Tzu
 
@@ -24,7 +26,8 @@
 * Meditiations - Marcus Aurelius
 * Rules For Radicals: A Pragmatic Primer for Realistic Radicals  - Saul Alinsky
 * The Gulag Archipelago - Aleksandr Solzhenitsyn
-
+* The Idea Factory: Bell Labs and the Great Age of American Innovation - Jon Gertner
+* 12 Seconds of Silence - Jamie Holmes
 
 ### Fiction
 * Catch-22 - Jospeh Heller
