@@ -20,6 +20,11 @@
 * Dr Jekyl and Mr Hyde and other stories - Robert Louis Stevenson
 * The Adventures of Sherlock Holmes - Sir Arthur Conan Doyle
 
+
+## Reading Now
+
+* 12 Seconds of Silence - Jamie Holmes 
+
 ## To Read
 
 ### Non-Fiction
@@ -27,7 +32,7 @@
 * Rules For Radicals: A Pragmatic Primer for Realistic Radicals  - Saul Alinsky
 * The Gulag Archipelago - Aleksandr Solzhenitsyn
 * The Idea Factory: Bell Labs and the Great Age of American Innovation - Jon Gertner
-* 12 Seconds of Silence - Jamie Holmes
+* The Design of Everyday Things - Don Norman
 
 ### Fiction
 * Catch-22 - Jospeh Heller
